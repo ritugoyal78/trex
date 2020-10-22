@@ -25,7 +25,7 @@ ground.velocityX = -4;
 }
 
 function draw() {
-background("lightblue");
+background("green");
 
 //jump when the space button is pressed
 if (keyDown("space")) {
